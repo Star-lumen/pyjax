@@ -7,8 +7,8 @@ We meet the second Tuesday of the month at Keiser University.
 
 # Discord
 Discord is the best place to get information about our meetings. 
-Join our discord at https://discord.com/invite/jMTg3wGSJ7
+Join our discord at [https://discord.com/invite/jMTg3wGSJ7](https://discord.com/invite/jMTg3wGSJ7)
 
 # Meetup
-We are on Meetup! Join the group at https://www.meetup.com/py-jax/
+We are on Meetup! Join the group at [https://www.meetup.com/py-jax/](https://www.meetup.com/py-jax/)
 
