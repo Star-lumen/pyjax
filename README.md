@@ -1,6 +1,4 @@
 # Welcome to the Python of Jacksonville Info Page
-Python of Jacksonville Info Page
-
 PyJax is a user group for Python programming enthusiasts around Jacksonville, from beginners to experienced users. Our purpose is to share knowledge, skills and experience with Python code in a range of applications.
 
 # Meetings
