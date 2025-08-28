@@ -12,3 +12,6 @@ Join our discord at [https://discord.com/invite/jMTg3wGSJ7](https://discord.com/
 # Meetup
 We are on Meetup! Join the group at [https://www.meetup.com/py-jax/](https://www.meetup.com/py-jax/)
 
+# LinkedIn
+Join the LinkedIn Group [https://www.linkedin.com/groups/13009713](https://www.linkedin.com/groups/13009713)
+
